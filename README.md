@@ -1,6 +1,13 @@
 # 👋 Hi, I'm Prasana
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Trading-Systems-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-RAG%20%2B%20Agents-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Distributed-Infra-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-Automation-green?style=for-the-badge" />
+</p>
+
+<p align="center">
 Building <b>AI-powered trading systems</b> on <b>distributed infrastructure</b>
 </p>
 
@@ -8,74 +15,51 @@ Building <b>AI-powered trading systems</b> on <b>distributed infrastructure</b>
 
 ## ⚡ About Me
 
-* ⚙️ DevSecOps & Platform Engineer
-* 📊 Building **algorithmic trading systems (options, data, execution)**
-* 🤖 Working on **AI + RAG + multi-agent systems**
-* 🌐 Running **distributed compute across multi-machine infra**
-* 🐧 Linux-first, automation-driven workflows
+* DevSecOps & Platform Engineer building automated, secure distributed systems
+* Focus on algorithmic trading engines (options, pricing, execution, risk), AI agents, and infra
+* Linux-first mindset with repeatable automation and best-practice reliability
 
 ---
 
-## 🧩 What I Build
+## 🧩 Core Competencies
 
-### 📈 Trading Systems
+### 📈 Trading & Quant Systems
 
-* Backtesting + simulation engines
-* Options data pipelines (OI, IV, Greeks)
-* Execution + risk systems
-* AI-assisted strategies
+* Backtesting / simulation
+* Options analytics (OI, IV, Greeks)
+* Execution + risk management
+* Data pipelines + signal orchestration
 
-### 🤖 AI Systems
+### 🤖 AI + RAG + Agents
 
-* OpenClaw multi-agent ecosystem
-* Local + distributed LLM infra
-* RAG over code + datasets
-* Memory + context systems
+* Multi-agent orchestration (OpenClaw)
+* Local and distributed LLM infrastructure
+* RAG pipelines for code and dataset search
+* Context/memory systems
 
-### ☁️ Infra / DevOps
+### ☁️ Distributed Infra & DevOps
 
-* Kubernetes, Terraform, CI/CD
-* Secure IaC + secrets detection
-* Observability + monitoring
-* Hybrid distributed compute
+* Kubernetes + hybrid compute
+* Terraform + secure IaC
+* CI/CD + observability
+* Secrets management and hardening
 
 ---
 
 ## 🔥 Key Projects
 
-### ⚡ Gritgo – Trading Engine
-
-* Quant-style derivatives system
-* Backtesting + real-time execution
-* Multi-signal + AI decision engine
-
-### 🤖 Git-RAG Chat
-
-* Query codebases using AI
-* ChromaDB + embeddings
-* Developer productivity tool
-
-### 🧠 OpenClaw Setup
-
-* Multi-machine AI agents
-* Windows + Mac + Linux
-* Tailscale-based distributed mesh
+* **Gritgo** – Quant derivatives engine with real-time execution and AI decision layer
+* **Git-RAG Chat** – Codebase query assistant, ChromaDB embeddings, AI productivity
+* **OpenClaw Setup** – Cross-platform distributed agent mesh (Linux/Mac/Windows, Tailscale)
 
 ---
 
-## 🛠️ Core Stack
+## 🛠️ Tech Stack
 
-**Languages**
-Python • Go • Node.js • Bash
-
-**AI / Data**
-RAG • LLMs • ChromaDB • Vector Search • OpenClaw
-
-**Cloud / Infra**
-Azure • Kubernetes • Terraform • CI/CD 
-
-**Data**
-PostgreSQL • TimescaleDB • Kafka • SQLITE • DuckDB
+* Languages: Python, Go, Node.js, Bash
+* AI/Data: RAG, LLMs, ChromaDB, Vector Search
+* Infra: Azure, Kubernetes, Terraform, CI/CD
+* Databases: PostgreSQL, TimescaleDB, Kafka, SQLite, DuckDB
 
 ---
 
@@ -90,14 +74,13 @@ PostgreSQL • TimescaleDB • Kafka • SQLITE • DuckDB
 
 ## 🌍 Connect
 
-* 💼 LinkedIn: https://linkedin.com/in/prasana-r-324b1526
+* LinkedIn: https://linkedin.com/in/prasana-r-324b1526
 
 ---
 
 ## ⚡ Philosophy
 
-> Treat trading like engineering
-> Treat systems like products
-> Automate everything that repeats
+* Treat trading like engineering
+* Treat systems like products
+* Automate everything that repeats
 
----
